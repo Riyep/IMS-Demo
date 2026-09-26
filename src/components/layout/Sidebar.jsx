@@ -35,7 +35,7 @@ export default function Sidebar({ collapsed, setCollapsed }) {
           </div>
           {!collapsed && (
             <div className="overflow-hidden">
-              <h1 className="text-base font-bold text-gray-900 whitespace-nowrap">SpareParts Pro</h1>
+              <h1 className="text-base font-bold text-gray-900 whitespace-nowrap">Bengkel SpareParts</h1>
               {/* <p className="text-[10px] text-gray-500 -mt-0.5">Inventory Management</p> */}
             </div>
           )}
